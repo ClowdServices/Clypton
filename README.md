@@ -12,7 +12,7 @@ Clypton is a Fabric mod designed to work smoothly on DonutSMP-style servers, foc
 - Hover Totem
 - KillAuraLegit
 
-# Misc
+### Misc
 - Auto Crafter
 - Auto Eat
 - Auto Firework
@@ -30,7 +30,7 @@ Clypton is a Fabric mod designed to work smoothly on DonutSMP-style servers, foc
 - SpawnerNotifier
 - Zoom
 
-# Donut
+### Donut
 - Anti Trap
 - Auction Sniper
 - Auto Sell
@@ -46,7 +46,7 @@ Clypton is a Fabric mod designed to work smoothly on DonutSMP-style servers, foc
 - TerrainDebugger
 - Tunnel Base Finder
 
-# Render
+### Render
 - BlockESP
 - BaseESP
 - Fullbright
@@ -64,7 +64,7 @@ Clypton is a Fabric mod designed to work smoothly on DonutSMP-style servers, foc
 - Storage ESP
 - Target HUD
 
-# Client
+### Client
 - Auto Reconnect
 - Configs
 - Discord Presence
