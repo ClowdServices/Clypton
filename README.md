@@ -1,7 +1,7 @@
 Clypton is a Fabric mod designed to work smoothly on DonutSMP-style servers, focusing on stability, performance, and a clean in-game experience.
 
 ## Features
-# Combat
+### Combat
 - Anchor Macro
 - Auto Crystal
 - Auto Inv Totem
